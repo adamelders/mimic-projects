@@ -1,0 +1,9 @@
+#logo-main {
+  width: 50%;
+  height: 50%;
+}
+
+div.main-container {
+  display: flex;
+  flex-direction: row;
+}
